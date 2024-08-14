@@ -1,8 +1,9 @@
 body {
-    background: black;
+    background: rgb(24, 24, 24);
     color: white;
 }
 
 header {
-    border-bottom: blue;
+    border-left: solid 2px orange;
+    padding-left: 4px;
 }
