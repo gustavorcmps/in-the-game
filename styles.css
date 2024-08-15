@@ -1,9 +1,18 @@
 body {
-    background: rgb(24, 24, 24);
+    background: rgb(15, 17, 12);
     color: white;
 }
 
 header {
     border-left: solid 2px orange;
-    padding-left: 4px;
+    border-bottom: solid 2px orange;
+    padding-left: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.introducao {
+    background-color: rgb(63, 124, 172);
+    display: flex;
+    justify-content: center;
 }
